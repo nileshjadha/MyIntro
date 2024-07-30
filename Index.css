@@ -1,0 +1,54 @@
+.logo1 {
+    height: 300px;
+    width: 300px;
+    border: 2px solid;
+    margin:5px;
+    border-radius: 20px 290px / 250px;
+    padding: 2px;
+}  
+.bgimg {
+    background-image: url("beer2.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 100vh;
+    width: 100%;
+
+}
+h1{
+    color: aqua;
+}
+.imges {
+    height: 300px;
+    width: 300px;
+    border-radius: 20px 290px / 250px;
+    display: flex;
+}
+.container {
+    background-color: #F8EDE3;
+    display: flex;
+    flex-wrap: wrap;
+}
+.header {
+    margin-left: 700px;
+}
+.home{
+    padding: 15px;
+    text-decoration: none;
+}
+.beer101 {
+    padding: 15px;
+    text-decoration: none;
+}
+.testguide {
+    padding: 15px;
+    text-decoration: none;
+}
+.community {
+    padding: 15px;
+    text-decoration: none;
+}
+.events {
+    padding: 15px;
+    text-decoration: none;
+}
